@@ -137,3 +137,20 @@ ros2 launch rover_bringup rover_simulation.launch.py
 | `/imu` | `Imu` | Chassis IMU |
 
 > RViz displays require **Reliability Policy: Best Effort** (ros_gz_bridge QoS).
+
+## Sponsors
+
+This project is supported by the following partners:
+
+<p align="center">
+  <a href="https://easyeda.com/es">
+    <img src="https://easyeda.com/favicon.ico" alt="EasyEDA" width="20"/>
+    <strong>EasyEDA</strong>
+  </a>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="https://jlcpcb.com/">
+    <strong>JLCPCB</strong>
+  </a>
+</p>
+
+The electronic hardware for this project is designed using **EasyEDA Professional**, an online EDA platform for schematic capture and PCB design. Prototype PCB manufacturing is supported by **JLCPCB**, providing fast and reliable fabrication services for rapid hardware development.
